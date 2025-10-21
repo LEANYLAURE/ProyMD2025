@@ -1,0 +1,18 @@
+
+
+.producto {
+    width: 250px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px; 
+    background-color: lightgray;
+    text-align: center;
+}
+
+.producto img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px; 
+}
